@@ -2,6 +2,11 @@
 
 A simple plugin for Android Studio that adds support for Android Room Persistence Library.
 
+## Note:
+
+Android Studio in future update may have better Room Support incuded in IDE so you may remove this plugin in future.
+Check this: http://androidbackstage.blogspot.com/2017/11/episode-82-tooling-around.html
+
 ![Alt text](/screenShot/Capture.PNG?raw=true "Android Room Support Plugin (Room DAO)")
 
 ![Alt text](/screenShot/Capture2.PNG?raw=true "Android Room Support Plugin (Room DAO)")
